@@ -1,0 +1,13 @@
+# Git忽略文件，更多查看https://github.com/github/gitignore
+
+# Windows系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux系统文件
+
+# Mac OS系统文件
+
+!.gitignore
