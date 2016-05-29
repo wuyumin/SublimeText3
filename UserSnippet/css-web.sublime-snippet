@@ -1,0 +1,19 @@
+<!-- 电脑版基本CSS文件 -->
+<snippet>
+	<content><![CDATA[
+@charset "utf-8";
+*{margin:0 auto;padding:0;}
+html{-webkit-text-size-adjust:none;font-size:${1:14px};}
+body{background:${2:#fff};color:${3:#333};font-family:${4:"helvetica neue",helvetica,arial,sans-serif};min-width:${5:1000px};}${6:/*body的min-width防手机浏览电脑版时子元素width:100%;宽度出现空白*/}
+img{border:none;}
+a{text-decoration:none;}
+ul{list-style:none;}
+h3{font-size:100%;font-weight:normal;}
+.clear:after{display:block;clear:both;content:"";visibility:hidden;height:0;}
+.clear{zoom:1;}
+#wrap{}
+]]></content>
+	<tabTrigger>cssweb</tabTrigger>
+	<description>电脑版基本CSS文件</description>
+	<scope>source.css</scope>
+</snippet>

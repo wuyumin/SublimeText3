@@ -1,0 +1,25 @@
+<!-- 电脑版基本网页 -->
+<snippet>
+	<content><![CDATA[
+<!doctype html>
+<html lang="zh-cn">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-transform">
+<title>${1:标题}</title>
+<meta name="keywords" content="${2:关键字1,关键字2}">
+<meta name="description" content="${3:描述}">
+<link rel="stylesheet" href="${4:./css/global.css}">
+<script src="${5:./js/global.js}"></script>
+</head>
+<body>
+<div id="wrap">
+${6:内容}
+</div>
+</body>
+</html>
+]]></content>
+	<tabTrigger>web</tabTrigger>
+	<description>电脑版基本网页</description>
+	<scope>text.html</scope>
+</snippet>

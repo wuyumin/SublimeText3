@@ -1,0 +1,19 @@
+<!-- 手机版基本CSS文件 -->
+<snippet>
+	<content><![CDATA[
+@charset "utf-8";
+*{margin:0 auto;padding:0;}
+html{-webkit-text-size-adjust:none;font-size:${1:14px};}
+body{background:${2:#e6e6e6};color:${3:#333};font-family:${4:"helvetica neue",helvetica,arial,sans-serif};}
+img{border:none;}
+a{text-decoration:none;}
+ul{list-style:none;}
+h3{font-size:100%;font-weight:normal;}
+.clear:after{display:block;clear:both;content:"";visibility:hidden;height:0;}
+.clear{zoom:1;}
+#wrap{max-width:${5:640px};background:${6:#fff};}
+]]></content>
+	<tabTrigger>cssmob</tabTrigger>
+	<description>手机版基本CSS文件</description>
+	<scope>source.css</scope>
+</snippet>
