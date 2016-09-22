@@ -10,8 +10,8 @@
 ###### 特别提示：目前本人使用的Sublime Text版本是Sublime Text 3，windows操作系统。(Win,OS,Linux快捷键多数有区别)。  
   
 # 阅读相关  
-* Sublime Text官网：[http://www.sublimetext.com](http://www.sublimetext.com)  
-* 插件管理器的安装方法：[https://packagecontrol.io/installation](https://packagecontrol.io/installation)  
+* Sublime Text官网：<https://www.sublimetext.com>  
+* 插件管理器的安装方法：<https://packagecontrol.io/installation>  
 * 常用配置请查看[Config.md](Config.md)这个文件。  
 * 常用插件请查看[Packages.md](Packages.md)这个文件。  
 * 常用快捷键请查看[Shortcuts.md](Shortcuts.md)这个文件。  

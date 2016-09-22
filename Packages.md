@@ -5,7 +5,7 @@
 * Package Control：  
 一个方便管理Sublime text插件的插件。  
 如何安装Package Control？  
-安装方法请访问[Package Control官网](http://https://packagecontrol.io/installation)  
+安装方法请访问[Package Control官网](https://packagecontrol.io/installation)  
 调出Console要点：菜单View->Show Console（快捷键Ctrl+`）然后粘贴Package Control官网提供的对应版本Python代码，回车。  
 安装完成后需要关闭并重启一下Sublime Text，然后再使用Package Control来安装或管理其他插件。  
 调出Package Control要点：菜单Preferences->Package Control（快捷键ctrl+shift+p），然后打开Install Package搜索并安装对应插件。  
