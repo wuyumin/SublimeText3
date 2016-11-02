@@ -15,5 +15,5 @@
 * 常用配置请查看[Config.md](Config.md)这个文件。  
 * 常用插件请查看[Packages.md](Packages.md)这个文件。  
 * 常用快捷键请查看[Shortcuts.md](Shortcuts.md)这个文件。  
-* 常用snippet请看UserSnippet文件夹里的(snippet功能：可将你常用的一些代码片段制作成snippet，方便你写代码时快速调用)。  
+* 常用snippet请看UserSnippet文件夹里的(snippet功能：可将你常用的一些代码片段制作成snippet，方便你写代码时快速调用。指定多个 scope 可以使用英文逗号来分隔。)  
 * 出现snippet提示后如果不想使用当前的默认提示，可按ESC键取消（小技巧：使用Emmet插件时，个别默认提示会掩盖Emmet提示，按ESC键取消后再使用）。  

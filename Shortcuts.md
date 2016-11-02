@@ -34,5 +34,6 @@
 **ctrl+f3** 下一个匹配项  
 **ctrl+shift+[** 折叠(代码)，少shift是缩进  
 **ctrl+shift+]** 不折叠(代码)  
+**ctrl+shift+alt+p** 查看当前文件的 scope（制作Snippet时可能会用到）  
   
 ……  
