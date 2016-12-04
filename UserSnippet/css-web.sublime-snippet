@@ -1,10 +1,10 @@
-<!-- 电脑版基本CSS文件 -->
+<!-- 电脑版基本CSS -->
 <snippet>
 	<content><![CDATA[
-@charset "utf-8";
+${1:@charset "utf-8";}
 *{margin:0 auto;padding:0;}
-html{-webkit-text-size-adjust:none;font-size:${1:14px};}
-body{background:${2:#fff};color:${3:#333};font-family:${4:"helvetica neue",helvetica,arial,sans-serif};min-width:${5:1000px};}${6:/*body的min-width防手机浏览电脑版时子元素width:100%;宽度出现空白*/}
+html{-webkit-text-size-adjust:none;font-size:${2:14px};}
+body{background:${3:#fff};color:${4:#333};font-family:${5:"helvetica neue",helvetica,arial,sans-serif};min-width:${6:1000px};}${7:/*body的min-width防手机浏览电脑版时子元素width:100%;宽度出现空白*/}
 img{border:none;}
 a{text-decoration:none;}
 a:focus{outline:none;-moz-outline:none;}
@@ -15,6 +15,6 @@ h3{font-size:100%;font-weight:normal;}
 #wrap{}
 ]]></content>
 	<tabTrigger>cssweb</tabTrigger>
-	<description>电脑版基本CSS文件</description>
-	<scope>source.css</scope>
+	<description>电脑版基本CSS</description>
+	<scope>source.css,text.html,embedding.php</scope>
 </snippet>

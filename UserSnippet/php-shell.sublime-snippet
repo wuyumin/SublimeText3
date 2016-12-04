@@ -1,0 +1,11 @@
+<!-- PHP命令行 -->
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env php
+<?php
+
+]]></content>
+    <tabTrigger>phpshell</tabTrigger>
+    <description>PHP命令行</description>
+    <scope>embedding.php</scope>
+</snippet>

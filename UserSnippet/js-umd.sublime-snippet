@@ -1,0 +1,19 @@
+<!-- 通用模块化 -->
+<snippet>
+    <content><![CDATA[
+;(function (root, factory) {
+  if (typeof module === 'object' && module && typeof module.exports === 'object'){  //CommonJS(NodeJS)
+    module.exports = factory();
+  } else if (typeof define === 'function' && (define.amd || define.cmd)){  //AMD or CMD
+    define(factory);
+  } else {  //browser
+    root.${1:pluginName} = factory();
+  }
+})(typeof window !== 'undefined' ? window : this, function () {
+    ${2://code here}
+});
+]]></content>
+    <tabTrigger>umd</tabTrigger>
+    <description>通用模块化</description>
+    <scope>source.js</scope>
+</snippet>

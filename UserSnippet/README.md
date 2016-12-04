@@ -7,5 +7,5 @@ web：电脑版基本网页
 mob：手机版基本网页  
 rem：手机版响应式网页(采用相对单位rem)  
 **CSS样式**  
-cssweb：电脑版基本CSS文件  
-cssmob：手机版基本CSS文件  
+cssweb：电脑版基本CSS  
+cssmob：手机版基本CSS  

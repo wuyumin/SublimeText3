@@ -1,0 +1,18 @@
+<!-- PHP个人头部 -->
+<snippet>
+    <content><![CDATA[
+<?php
+/**
+ * ${1:说明文字}
+ * 
+ * @author Yumin Wu <https://wuyumin.com>
+ * @link https://089858.com
+ * @copyright Copyright (c) 089858.com
+ */
+
+
+]]></content>
+    <tabTrigger>phpheader</tabTrigger>
+    <description>PHP个人头部</description>
+    <scope>embedding.php</scope>
+</snippet>
