@@ -3,7 +3,8 @@
 ##### 常用自定义配置：  
 "tab_size": 4,  //tab缩进宽度  
 "translate_tabs_to_spaces": true,  //tab转换成为空格  
-"draw_white_space": "all",  //显示空白字符
+"draw_white_space": "all",  //显示空白字符  
+"update_check": false,  //禁止sublime自动更新
   
 **CSS自动补全去掉空格**(根据个人习惯来设置，我是不喜欢这个空格的)：  
 1、在插件目录里找到CSS包，解包，打开css_completions.py  
