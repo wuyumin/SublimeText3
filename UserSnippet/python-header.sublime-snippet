@@ -1,0 +1,12 @@
+<!-- Python头部 -->
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env python
+# coding=utf-8
+
+
+]]></content>
+    <tabTrigger>pyheader</tabTrigger>
+    <description>Python头部</description>
+    <scope>source.python</scope>
+</snippet>
