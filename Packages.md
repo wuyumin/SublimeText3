@@ -17,6 +17,9 @@ HTML和CSS代码快速编写神器。
   
 * ConvertToUTF8：  
 Sublime Text默认是国际通用编码utf8，本身不支持中文编码gbk，如果你的文本文件刚好是gbk编码，那么在Sublime Text打开显示的是乱码，需要安装这个插件来兼容(建议大家写代码时尽量使用国际通用编码utf8)。  
+
+* SideBarEnhancements  
+增强侧边栏  
   
 * SublimeCodeIntel：  
 SublimeCodeIntel 作为一个代码提示和补全插件，支持 JavaScript、Mason、XBL、XUL、RHTML、SCSS、Python、HTML、Ruby、Python3、XML、Sass、XSLT、Django、HTML5、Perl、CSS、Twig、Less、Smarty、Node.js、Tcl、TemplateToolkit 和 PHP 等所有语言，是 Sublime Text 自带代码提示功能基础上一个更好的扩展，自带代码提示功能只可提示系统代码，而SublimeCodeIntel则可以提示用户自定义代码。SublimeCodeIntel支持跳转到变量、函数定义的功能，另外还有自动补全的功能，十分方便。  
