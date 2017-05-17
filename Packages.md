@@ -21,6 +21,7 @@ Sublime Text默认是国际通用编码utf8，本身不支持中文编码gbk，�
 * SideBarEnhancements  
 增强侧边栏  
 详情用法可参考该插件官网 <https://github.com/SideBarEnhancements-org/SideBarEnhancements>  
+在项目侧边栏中右键配置预览访问网址 Project -> Edit Preview URLs 及该插件用户自定义快捷键。  
   
 * SublimeCodeIntel：  
 SublimeCodeIntel 作为一个代码提示和补全插件，支持 JavaScript、Mason、XBL、XUL、RHTML、SCSS、Python、HTML、Ruby、Python3、XML、Sass、XSLT、Django、HTML5、Perl、CSS、Twig、Less、Smarty、Node.js、Tcl、TemplateToolkit 和 PHP 等所有语言，是 Sublime Text 自带代码提示功能基础上一个更好的扩展，自带代码提示功能只可提示系统代码，而SublimeCodeIntel则可以提示用户自定义代码。SublimeCodeIntel支持跳转到变量、函数定义的功能，另外还有自动补全的功能，十分方便。  
