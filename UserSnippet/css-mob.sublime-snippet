@@ -2,17 +2,17 @@
 <snippet>
 	<content><![CDATA[
 ${1:@charset "utf-8";}
-*{margin:0 auto;padding:0;}
-html{-webkit-text-size-adjust:none;font-size:${2:14px};}
-body{background:${3:#e6e6e6};color:${4:#333};font-family:${5:"helvetica neue",helvetica,arial,sans-serif};}
-img{border:none;}
-a{text-decoration:none;}
-a:focus{outline:none;-moz-outline:none;}
-ul{list-style:none;}
-h3{font-size:100%;font-weight:normal;}
-.clear:after{display:block;clear:both;content:"";visibility:hidden;height:0;}
-.clear{zoom:1;}
-#wrap{max-width:${6:640px};background:${7:#fff};}
+*{margin: 0 auto;padding: 0;}
+html{-webkit-text-size-adjust: none;font-size: ${2:15px};}
+body{background: ${3:#e6e6e6};color: ${4:#333};font-family: ${5:"helvetica neue",helvetica,arial,sans-serif};}
+img{border: none;}
+a{text-decoration: none;}
+a:focus{outline: none;-moz-outline: none;}
+ul{list-style: none;}
+h3{font-size: 100%;font-weight: normal;}
+.clear:after{display: block;clear: both;content: "";visibility: hidden;height: 0;}
+.clear{zoom: 1;}
+#wrap{max-width: ${6:640px};background: ${7:#fff};}
 ]]></content>
 	<tabTrigger>cssmob</tabTrigger>
 	<description>手机版基本CSS</description>
