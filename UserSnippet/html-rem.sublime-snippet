@@ -2,7 +2,7 @@
 <snippet>
 	<content><![CDATA[
 <!doctype html>
-<html lang="zh-cn">
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <title>${1:标题}</title>
@@ -65,6 +65,7 @@ body{background:#fff;font-size:${10:0.14rem};}
 </div>
 </body>
 </html>
+
 ]]></content>
 	<tabTrigger>rem</tabTrigger>
 	<description>手机版响应式网页(采用相对单位rem)</description>

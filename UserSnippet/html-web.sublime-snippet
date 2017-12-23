@@ -2,7 +2,7 @@
 <snippet>
 	<content><![CDATA[
 <!doctype html>
-<html lang="zh-cn">
+<html lang="zh-CN">
 <head>
 <meta charset="utf-8">
 <meta http-equiv="Cache-Control" content="no-transform">
@@ -18,6 +18,7 @@ ${6:内容}
 </div>
 </body>
 </html>
+
 ]]></content>
 	<tabTrigger>web</tabTrigger>
 	<description>电脑版基本网页</description>
