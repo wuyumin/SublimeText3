@@ -9,7 +9,7 @@
 <meta name="keywords" content="${2:关键字1,关键字2}">
 <meta name="description" content="${3:描述}">
 <meta name="viewport" content=""><!--viewport由JS动态处理-->
-<meta name="format-detection" content="telephone=no,email=no,adress=no">
+<meta name="format-detection" content="telephone=no,email=no,address=no">
 <!--<noscript></noscript>-->
 <link rel="stylesheet" href="${4:./css/global.css}">
 <script src="${5:./js/global.js}"></script>
