@@ -3,6 +3,7 @@
     <content><![CDATA[
 #!/usr/bin/env bash
 
+
 ]]></content>
     <tabTrigger>bashshell</tabTrigger>
     <description>bash shell 脚本</description>
