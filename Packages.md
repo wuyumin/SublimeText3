@@ -50,7 +50,13 @@ html属性补全功能（如果无法使用，可能要设置Sublime Text的auto
 * Terminal：  
 侧边栏文件夹使用命令行工具。  
 微软系统插件修改默认设置`"terminal": "C:\\Windows\\System32\\cmd.exe",`可调整命令行工具，路径分隔符记得转义。  
-  
+
+* Pretty YAML：  
+yaml语法。  
+
+* Dockerfile Syntax Highlighting：  
+Dockerfile语法。  
+
 * 你还可以访问 <https://packagecontrol.io/browse> 来发现一些插件。  
   
 * 更多插件会酌情更新给大家……  
