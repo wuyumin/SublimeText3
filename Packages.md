@@ -60,6 +60,9 @@ yaml工具。
 * Dockerfile Syntax Highlighting：  
 Dockerfile语法。  
 
+* Protobuf Syntax Hightlighting：  
+Protobuf语法。  
+
 * 你还可以访问 <https://packagecontrol.io/browse> 来发现一些插件。  
   
 * 更多插件会酌情更新给大家……  
