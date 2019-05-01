@@ -6,9 +6,13 @@
 一个方便管理Sublime text插件的插件。  
 如何安装Package Control？  
 安装方法请访问 [Package Control 官网](https://packagecontrol.io/installation)  
-调出Console要点：菜单View->Show Console（快捷键Ctrl+`）然后粘贴Package Control官网提供的对应版本Python代码，回车。  
+调出Console要点：菜单View->Show Console（快捷键Ctrl+\`）然后粘贴Package Control官网提供的对应版本Python代码，回车。  
 安装完成后需要关闭并重启一下Sublime Text，然后再使用Package Control来安装或管理其他插件。  
 调出Package Control要点：菜单Preferences->Package Control（快捷键ctrl+shift+p），然后打开Install Package搜索并安装对应插件。  
+  
+* LSP：  
+Language Server Protocol 语言服务器协议  
+<https://github.com/tomv564/LSP>  
   
 * Emmet：  
 HTML和CSS代码快速编写神器。  
@@ -39,7 +43,7 @@ Aligment插件让开发者自动对齐代码，包括PHP、CSS、JavaScript语�
 编写jQuery时便捷提示。  
   
 * DocBlockr：  
-快速添加注释，如编写PHP函数时在函数上方输入/**即可自动输出注释结构。  
+快速添加注释，如编写PHP函数时在函数上方输入/\*\*即可自动输出注释结构。  
   
 * HTMLAttributes：  
 html属性补全功能（如果无法使用，可能要设置Sublime Text的auto_complete_selector才起作用)  
