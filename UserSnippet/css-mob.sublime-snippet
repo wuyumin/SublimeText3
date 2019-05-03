@@ -16,5 +16,5 @@ h3{font-size: 100%;font-weight: normal;}
 ]]></content>
 	<tabTrigger>cssmob</tabTrigger>
 	<description>手机版基本CSS</description>
-	<scope>source.css,text.html,embedding.php</scope>
+	<scope>source.css,text.html</scope>
 </snippet>

@@ -69,5 +69,5 @@ body{background:#fff;font-size:${10:0.14rem};}
 ]]></content>
 	<tabTrigger>rem</tabTrigger>
 	<description>手机版响应式网页(采用相对单位rem)</description>
-	<scope>text.html,embedding.php</scope>
+	<scope>text.html</scope>
 </snippet>

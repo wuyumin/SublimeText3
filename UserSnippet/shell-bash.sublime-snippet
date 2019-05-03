@@ -5,7 +5,7 @@
 
 
 ]]></content>
-    <tabTrigger>bashshell</tabTrigger>
+    <tabTrigger>shellbash</tabTrigger>
     <description>bash shell 脚本</description>
     <scope>source.shell</scope>
 </snippet>

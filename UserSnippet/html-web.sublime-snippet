@@ -22,5 +22,5 @@ ${6:内容}
 ]]></content>
 	<tabTrigger>web</tabTrigger>
 	<description>电脑版基本网页</description>
-	<scope>text.html,embedding.php</scope>
+	<scope>text.html</scope>
 </snippet>

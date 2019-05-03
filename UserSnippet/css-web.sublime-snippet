@@ -16,5 +16,5 @@ h3{font-size: 100%;font-weight: normal;}
 ]]></content>
 	<tabTrigger>cssweb</tabTrigger>
 	<description>电脑版基本CSS</description>
-	<scope>source.css,text.html,embedding.php</scope>
+	<scope>source.css,text.html</scope>
 </snippet>

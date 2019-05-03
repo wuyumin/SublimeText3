@@ -1,0 +1,11 @@
+<!-- sh shell 脚本 -->
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env sh
+
+
+]]></content>
+    <tabTrigger>shellsh</tabTrigger>
+    <description>sh shell 脚本</description>
+    <scope>source.shell</scope>
+</snippet>
