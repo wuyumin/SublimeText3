@@ -1,0 +1,12 @@
+<!-- Python3头部 -->
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env python3
+
+
+
+]]></content>
+    <tabTrigger>py3header</tabTrigger>
+    <description>Python3头部</description>
+    <scope>source.python</scope>
+</snippet>

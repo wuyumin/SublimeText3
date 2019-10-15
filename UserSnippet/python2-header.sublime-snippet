@@ -1,0 +1,13 @@
+<!-- Python2头部 -->
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/env python2
+# coding=utf-8
+
+
+
+]]></content>
+    <tabTrigger>py2header</tabTrigger>
+    <description>Python2头部</description>
+    <scope>source.python</scope>
+</snippet>
