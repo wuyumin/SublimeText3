@@ -29,6 +29,8 @@
 
 ##### Package Control 代理设置(根据需要设置)：
 
+(Package Control可能也要通过代理或手动下载包来安装)
+
 菜单 Preferences => Package Settings => Package Control => Settings - User
 
 ```
