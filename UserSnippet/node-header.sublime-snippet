@@ -1,0 +1,11 @@
+<!-- Node头部 -->
+<snippet>
+    <content><![CDATA[
+'use strict';
+
+
+]]></content>
+    <tabTrigger>nodeheader</tabTrigger>
+    <description>Node头部</description>
+    <scope>source.js</scope>
+</snippet>
