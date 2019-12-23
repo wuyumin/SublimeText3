@@ -10,6 +10,11 @@
 安装完成后需要关闭并重启一下Sublime Text，然后再使用Package Control来安装或管理其他插件。  
 调出Package Control要点：菜单Preferences->Package Control（快捷键ctrl+shift+p），然后打开Install Package搜索并安装对应插件。  
   
+* ChineseLocalizations：  
+汉化插件  
+<https://github.com/rexdf/ChineseLocalization>  
+切换语言选择Help -> Language  
+  
 * LSP：  
 Language Server Protocol 语言服务器协议  
 <https://github.com/tomv564/LSP>  
