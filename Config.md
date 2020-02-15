@@ -7,6 +7,7 @@
 "translate_tabs_to_spaces": true,  //tab转换成为空格  
 "draw_white_space": "all",  //显示空白字符  
 "update_check": false,  //禁止sublime自动更新
+"open_files_in_new_window": false,  //避免mac设备总是新窗口中打开文件
   
 **CSS自动补全去掉空格**(根据个人习惯来设置)：  
 1、在插件目录里找到CSS包，解包，打开css_completions.py  
