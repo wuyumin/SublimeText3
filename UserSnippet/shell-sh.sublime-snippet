@@ -2,6 +2,7 @@
 <snippet>
     <content><![CDATA[
 #!/usr/bin/env sh
+set -e
 
 
 ]]></content>
