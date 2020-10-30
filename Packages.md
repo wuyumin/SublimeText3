@@ -44,6 +44,9 @@ Aligment插件让开发者自动对齐代码，包括PHP、CSS、JavaScript语�
 * AutoFileName：  
 自动补全文件(目录)路径。  
   
+* Vue Syntax Highlight：  
+vue工具。  
+  
 * jQuery：  
 编写jQuery时便捷提示。  
   
