@@ -13,7 +13,7 @@
 <script src="${5:./js/global.js}"></script>
 </head>
 <body>
-<div id="wrap">
+<div id="app">
 ${6:内容}
 </div>
 </body>

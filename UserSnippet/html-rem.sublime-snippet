@@ -60,7 +60,7 @@ body{background:#fff;font-size:${10:0.14rem};}
 </style>
 </head>
 <body>
-<div id="wrap">
+<div id="app">
 内容
 </div>
 </body>

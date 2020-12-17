@@ -12,7 +12,7 @@ ul{list-style: none;}
 h3{font-size: 100%;font-weight: normal;}
 .clear:after{display: block;clear: both;content: "";visibility: hidden;height: 0;}
 .clear{zoom: 1;}
-#wrap{}
+#app{}
 ]]></content>
 	<tabTrigger>cssweb</tabTrigger>
 	<description>电脑版基本CSS</description>
