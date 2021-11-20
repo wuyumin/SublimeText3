@@ -3,7 +3,7 @@
 
 ##### 常用自定义配置：
 
-"tab_size": 4, // tab缩进宽度  
+"tab_size": 2, // tab缩进宽度  
 "translate_tabs_to_spaces": true, // tab转换成为空格  
 "draw_white_space": "all", // 显示空白字符  
 "update_check": false, // 禁止sublime自动更新
