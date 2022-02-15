@@ -25,6 +25,7 @@ HTML和CSS代码快速编写神器。
 命令手册 <http://docs.emmet.io/cheat-sheet>  
   
 * ConvertToUTF8：  
+可能还需要配合安装`Codecs33`插件才能正常工作。  
 Sublime Text默认是国际通用编码utf8，本身不支持中文编码gbk，如果你的文本文件刚好是gbk编码，那么在Sublime Text打开显示的是乱码，需要安装这个插件来兼容(建议大家写代码时尽量使用国际通用编码utf8)。  
 
 * SideBarEnhancements  
