@@ -1,7 +1,7 @@
 <!-- 手机版基本网页 -->
 <snippet>
 	<content><![CDATA[
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="utf-8">
